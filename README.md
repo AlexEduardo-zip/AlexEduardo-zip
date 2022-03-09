@@ -1,6 +1,6 @@
 ## Bem Vindo... Eu sou o Alex Eduardo👋
 
-- 📚 Cursando Ciencia da Computação pelo DCC-UFMG
+- 📚 Cursando Ciência da Computação pelo DCC-UFMG
 - 🐍 Aprendendo Python
 - 📬 Contate-me no email: alexeduardoaeas@gmail.com
 
