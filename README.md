@@ -1,4 +1,4 @@
-## Olá, eu sou o Alex Eduardo👋
+## Alex Eduardo Alves👋
 
 - 📚 Cursando Ciencia da Computação pelo DCC-UFMG
 - 🐍 Aprendendo Python
