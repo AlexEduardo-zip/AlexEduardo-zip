@@ -15,7 +15,7 @@
       <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/550109625551290376/950905028464488568/coding-typing.png">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://discord.com/channels/789888698673922078/795358919417397249/950910627994533928">
      
 </div>
   
